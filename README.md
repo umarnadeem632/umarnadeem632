@@ -4,7 +4,7 @@ I'm currently pursuing my Electrical Engineering degree at NUST, with a deep pas
 
 ## 🌱 Currently Learning
 
-I'm actively expanding my knowledge in [Specify what you're currently learning or exploring]. Always eager to explore new concepts and advancements.
+I'm actively expanding my knowledge in . Always eager to explore new concepts and advancements.
 
 ## 🤝 Open to Collaboration
 
